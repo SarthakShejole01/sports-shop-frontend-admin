@@ -1,0 +1,10 @@
+/* 
+  Legacy theme variables. 
+  Tailwind is now the primary styling engine. 
+  Keeping this for any manual fallbacks if needed, 
+  but mostly unused.
+*/
+:root {
+    --primary: #4f46e5;
+    --bg-body: #f8fafc;
+}
